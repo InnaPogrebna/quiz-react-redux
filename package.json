@@ -2,7 +2,7 @@
   "name": "react_quiz",
   "version": "0.1.0",
   "private": false,
-  "homepage": ".",
+  "homepage": "https://innapogrebna.github.io/quiz-react-redux/",
   "dependencies": {
     "@mate-academy/eslint-config": "0.0.19",
     "@reduxjs/toolkit": "^1.8.5",
