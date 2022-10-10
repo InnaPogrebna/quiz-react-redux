@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/quiz-react-redux/static/css/main.476785d5.css",
-    "main.js": "/quiz-react-redux/static/js/main.e512210c.js",
+    "main.js": "/quiz-react-redux/static/js/main.92c6578b.js",
     "static/media/anxiety.png": "/quiz-react-redux/static/media/anxiety.42f9baf8ad5286c2fa55.png",
     "static/media/celebrating.png": "/quiz-react-redux/static/media/celebrating.0bc75bd66b8452f05be6.png",
     "index.html": "/quiz-react-redux/index.html",
     "main.476785d5.css.map": "/quiz-react-redux/static/css/main.476785d5.css.map",
-    "main.e512210c.js.map": "/quiz-react-redux/static/js/main.e512210c.js.map"
+    "main.92c6578b.js.map": "/quiz-react-redux/static/js/main.92c6578b.js.map"
   },
   "entrypoints": [
     "static/css/main.476785d5.css",
-    "static/js/main.e512210c.js"
+    "static/js/main.92c6578b.js"
   ]
 }
