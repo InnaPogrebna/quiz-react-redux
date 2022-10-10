@@ -1,9 +1,14 @@
-/* eslint-disable react/prop-types */
 import React from 'react';
 import { questions } from '../questions';
+import { useSelector } from 'react-redux';
 
-export const Game = ({ step, question, onClickVariant }) => {
-  const percentage = Math.ceil(step / questions.length * 100);
+export const Game = ({ question, onClickVariant }) => {
+  const stepQ = useSelector((state) => {
+    const { stepReducer } = state;
+
+    return stepReducer.stepQ;
+  });
+  const percentage = Math.ceil((stepQ / questions.length) * 100);
 
   return (
     <>
