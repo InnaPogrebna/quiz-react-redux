@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.476785d5.css",
+    "main.js": "./static/js/main.27b55423.js",
+    "static/media/anxiety.png": "./static/media/anxiety.42f9baf8ad5286c2fa55.png",
+    "static/media/celebrating.png": "./static/media/celebrating.0bc75bd66b8452f05be6.png",
+    "index.html": "./index.html",
+    "main.476785d5.css.map": "./static/css/main.476785d5.css.map",
+    "main.27b55423.js.map": "./static/js/main.27b55423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.476785d5.css",
+    "static/js/main.27b55423.js"
+  ]
+}
